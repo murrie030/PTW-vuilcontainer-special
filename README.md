@@ -10,3 +10,5 @@ Er is gebruikgemaakt van de volgende technologieën:
 * Python
 * PostgreSQL
 * Tkinter
+
+Ook werd er gebruikgemaakt van sockets met behulp van een Raspberry Pi.
